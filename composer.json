@@ -17,12 +17,12 @@
   ],
   "require": {
     "php": ">=5.5.9",
-    "illuminate/support": "5.*",
+    //"illuminate/support": "5.*", commented out this line for laravel 6
     "nesbot/carbon": "^1.26.3"
   },
   "autoload": {
     "psr-4": {
-      "Liliom\\Inbox\\": "src/"
+      "Liliom\\Inbox\\": "src"
     }
   },
   "extra": {
