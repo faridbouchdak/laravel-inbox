@@ -16,7 +16,7 @@
     }
   ],
   "require": {
-    "laravel/framework": ">=6.*",
+    "laravel/framework": ">=6",
     "nesbot/carbon": "^1.26.3"
   },
   "autoload": {
